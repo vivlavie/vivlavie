@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vivlavie, Sung-Hoon Kim
 - 👀 I’m interested in Engineering Risk Analysis/Management & Python
 - 🌱 I’m currently running Nereid Safety Consulting, Korea.
-- 💞️ I’m looking to collaborate on Engineering Risk Analysis & Management.
-- 📫 How to reach me dr.sunghoon.kim@gmail.com
+- 💞️ I’m looking forward to collaborating on Engineering Risk Analysis & Management.
+- 📫 You can reach me at dr.sunghoon.kim@gmail.com.
 
 <!---
 vivlavie/vivlavie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
